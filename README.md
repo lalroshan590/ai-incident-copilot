@@ -17,7 +17,7 @@
 
 ### 🔹 API Documentation (Swagger UI)
 
-![Swagger Screenshot](screenshot.png)
+![Swagger Screenshot](screenshot2.png)
 
 ### 🔹 API Response Testing
 
@@ -25,7 +25,7 @@
 
 ### 🔹 Streamlit UI (Frontend)
 
-![UI Screenshot](screenshot2.png)
+![UI Screenshot](screenshot.png)
 
 ---
 
