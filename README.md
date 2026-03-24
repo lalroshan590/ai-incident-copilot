@@ -1,6 +1,6 @@
 # 🚀 AI Incident Copilot
 
-AI-powered tool to analyze production incidents and suggest root cause, fixes, and prevention.
+> AI-powered tool to analyze production incidents and suggest root cause, fixes, and prevention.
 
 ---
 
@@ -17,15 +17,15 @@ AI-powered tool to analyze production incidents and suggest root cause, fixes, a
 
 ### 🔹 API Documentation (Swagger UI)
 
-![Swagger Screenshot](screenshot1.png)
+![Swagger Screenshot](screenshot.png)
 
 ### 🔹 API Response Testing
 
-![API Response Screenshot](screenshot2.png)
+![API Response Screenshot](screenshot1.png)
 
 ### 🔹 Streamlit UI (Frontend)
 
-![UI Screenshot](screenshot3.png)
+![UI Screenshot](screenshot2.png)
 
 ---
 
@@ -41,6 +41,12 @@ Designed to help SRE and DevOps teams quickly analyze incidents and reduce MTTR 
 * FastAPI
 * Streamlit
 * OpenAI API
+
+---
+
+## 💡 Why this project
+
+Built to simulate real-world SRE workflows and demonstrate how AI can accelerate incident resolution.
 
 ---
 
