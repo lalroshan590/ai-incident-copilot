@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 AI Incident Copilot
 
 AI-powered tool to analyze production incidents and suggest root cause, fixes, and prevention.
@@ -34,3 +35,7 @@ Designed to help SRE and DevOps teams quickly analyze incidents and reduce MTTR 
 
 ## ⚡ Powered by  
 **Akshay AGI LLP**
+=======
+# ai-incident-copilot
+AI-powered incident analysis tool using FastAPI, Streamlit, and OpenAI APIs
+>>>>>>> c684642c4fd385c024784b63fbb14a82cdba77c2
