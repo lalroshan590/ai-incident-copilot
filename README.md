@@ -17,11 +17,11 @@
 
 ### 🔹 API Documentation (Swagger UI)
 
-![Swagger Screenshot](screenshot2.png)
+![Swagger Screenshot](swagger.png)
 
 ### 🔹 API Response Testing
 
-![API Response Screenshot](screenshot1.png)
+![API Response Screenshot](apiresponse.png)
 
 ### 🔹 Streamlit UI (Frontend)
 
